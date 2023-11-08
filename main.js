@@ -1,3 +1,3 @@
-function (){
-    document.querySelector(#som_tecla_pom).play();
+function(){
+    document.QuerySelector(#Som_Tecla_Pom).play();
 }
